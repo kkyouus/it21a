@@ -81,9 +81,14 @@ Thorin.addItem(sword);
 console.log(Thorin.totalAttack());
 Thorin.addItem(sword);
 
-//const Gandalf = new Mage("Gandalf",80,8,50);
-//Gandalf.useAbility();
-//Gandalf.getStats();
+const Gandalf = new Mage("Gandalf",80,8,50);
+Gandalf.getName();
+Gandalf.getAttack();
+
+Gandalf.addItem(staff);
+console.log(Gandalf.totalAttack());
+
+
 
 function performAbility(hero){
     console.log("\n")
