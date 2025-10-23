@@ -8,8 +8,9 @@
             "bordercolor":"rgba(75,192,192,1)"
         },
     {
+
             "label": "Person B",
-            "data":[80,80,75,85,80,85],
+            "data":[80,80,85,65,85,90],
             "backgroundColor":"rgba(0,128,0,0.2)",
             "bordercolor":"rgba(0,128,0,0.2,)"
     }
