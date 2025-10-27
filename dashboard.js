@@ -56,7 +56,7 @@ class LineChart{
 document.addEventListener("DOMContentLoaded", ()=>{
     const chart = new LineChart("linechart","linedata.json");
     chart.init();
-});
+})
 
 class radarChart {
         constructor(canvasId, dataUrl) {
